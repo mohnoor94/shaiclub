@@ -1,0 +1,131 @@
+baseURL: "https://www.shaiclub.com"
+title: نادي شاي التّقني
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+Copyright: Shai Club · Site built by [Noor](https://www.noor.guru)
+
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "Arabic"
+    languagedirection: rtl
+    weight: 1
+    menu:
+      main:
+        - name: أخبار
+          url: categories/news/
+          weight: 1
+        - name: مقالات
+          url: categories/articles/
+          weight: 2
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Python & AI Community"
+#  author: Noor
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: light
+  disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: false
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowToc: false
+  TocOpen: false
+  #  comments: true
+  # images: ["papermod-cover.png"]
+
+  profileMode:
+    enabled: true
+    title: Shai Club | نادي شاي التّقني
+    imageUrl: "safari-pinned-tab.svg"
+    imageTitle: Shai Club logo
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: أخبار
+        url: categories/news
+      - name: مقالات
+        url: categories/articles
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/company/shaiclub"
+    - name: facebook
+      url: "https://www.facebook.com/AIClub"
+    - name: instagram
+      url: "https://instagram.com/shai_club"
+
+  # label:
+  #     text: "Home"
+  #     icon: icon.png
+  #     iconHeight: 35
+
+  assets:
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
