@@ -58,9 +58,6 @@
       </nav>
       {{- end }}
       {{- end }}
-      {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true) ) }}
-      {{- partial "share_icons.html" . }}
-      {{- end }}
     </footer>
 
     {{- if (.Param "comments") }}
