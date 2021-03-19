@@ -3,7 +3,7 @@ title: "CareAngel"
 date: 2021-02-26
 categories: ["مقالات"]
 tags: ["Care", "AI", "Healthcare"]
-slug:
+slug: care-angel
 cover:
     image: images/care-angel.jpg
     alt: CareAngel
