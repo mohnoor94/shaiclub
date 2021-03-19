@@ -24,12 +24,13 @@
     font-weight: 500;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     .team-container {
         display: block;
     }
 
     .team-member {
-        width: 100%;
+        width: 80%;
+        margin: auto auto 50px;
     }
 }

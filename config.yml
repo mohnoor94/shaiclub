@@ -28,6 +28,9 @@ languages:
         - name: مقالات
           url: categories/articles/
           weight: 2
+        - name: فريقنا
+          url: team
+          weight: 3
 
 outputs:
   home:
@@ -62,6 +65,8 @@ params:
     imageWidth: 300
     imageHeight: 300
     buttons:
+      - name: فريقنا
+        url: team
       - name: أخبار
         url: categories/news
       - name: مقالات
