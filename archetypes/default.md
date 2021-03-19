@@ -5,5 +5,6 @@ draft: true
 categories: ["news", "articles"]
 tags: [""]
 slug:
+hideMeta: true
 ---
 

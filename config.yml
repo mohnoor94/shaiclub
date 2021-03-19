@@ -22,11 +22,11 @@ languages:
     weight: 1
     menu:
       main:
-        - name: أخبار
-          url: categories/news/
-          weight: 1
         - name: مقالات
           url: categories/articles/
+          weight: 1
+        - name: أخبار
+          url: categories/news/
           weight: 2
         - name: فريقنا
           url: team
@@ -41,7 +41,8 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Python & AI Community"
-  author: Shai
+  author: فريق شاي
+  hideMeta: true
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: light
@@ -67,10 +68,10 @@ params:
     buttons:
       - name: فريقنا
         url: team
-      - name: أخبار
-        url: categories/news
       - name: مقالات
         url: categories/articles
+      - name: أخبار
+        url: categories/news
 
   socialIcons:
     - name: linkedin
