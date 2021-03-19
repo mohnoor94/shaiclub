@@ -61,10 +61,10 @@ params:
   profileMode:
     enabled: true
     title: shAI Club | نادي شاي التّقني
-    imageUrl: "safari-pinned-tab.svg"
+    imageUrl: "shAI-logo.png"
     imageTitle: Shai Club logo
     imageWidth: 300
-    imageHeight: 300
+    imageHeight: 250
     buttons:
       - name: مقالات
         url: categories/مقالات

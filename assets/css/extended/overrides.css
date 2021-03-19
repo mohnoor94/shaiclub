@@ -1,3 +1,9 @@
+/* home page */
+
+.profile img {
+    border-radius: 0;
+}
+
 /* team */
 
 .team-page {
