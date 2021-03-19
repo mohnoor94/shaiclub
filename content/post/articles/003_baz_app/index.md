@@ -5,9 +5,13 @@ draft: fasle
 categories: ["articles"]
 tags: ["Baaz", "Applications"]
 slug: baaz-app-2020-12-24
+
+cover:
+    image: images/baaz.png
+    alt: Baaz App
+    caption: Baaz App
 ---
 
-![Baaz Application](images/baaz.png)
 
 - باز هي منصة وسائل تواصل اجتماعية تم إنشاؤها خصيصا للعالم العربي. ويوفر للمستخدمين تبادل المعلومات ويخلق بيئة امنة وواقعية لتبادل الثقافي مما يعكس الثقافة العربية.
 
