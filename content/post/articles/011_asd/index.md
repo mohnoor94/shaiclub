@@ -1,6 +1,6 @@
 ---
 title: "AI and ASD | الذكاء الاصطناعي في تشخيص مرض التوحد"
-date: 2021-03-20T00:37:30+02:00
+date: 2021-02-28T00:00:00
 categories: [ "مقالات"]
 tags: ["AI", "Healthcare", "ASD"]
 slug: ai-and-asd
