@@ -6,5 +6,9 @@ categories: ["أخبار", "مقالات"]
 tags: [""]
 slug:
 hideMeta: true
+cover:
+    image: images/
+    alt: "{{ replace .Name "-" " " | title }}"
+    caption: "{{ replace .Name "-" " " | title }}"
 ---
 
