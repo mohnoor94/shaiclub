@@ -3,8 +3,9 @@ title: "تهنئة لأعضاء نادي شاي"
 date: 2020-12-21
 draft: false
 categories: ["news"]
-tags: ["مسابقات", "فريق شاي"]
-slug: shai-members-won-2020-12-21
+tags: ["IEEE", "Shai Team", "Competition", "Winners", "مسابقات", "فريق شاي"]
+hideMeta: false
+slug: shai-members-won
 ---
 
 الف مبارك لاعضاء نادي الذكاء الاصطناعي لفوزهم بالمركز الثاني في تيكاثون امازون بفكرتهم
