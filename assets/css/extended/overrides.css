@@ -1,0 +1,35 @@
+/* team */
+
+.team-page {
+    max-width: 1200px;
+}
+
+.team-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.team-member {
+    text-align: center;
+    width: 30%;
+    margin: 10px;
+}
+
+.member-name {
+    font-weight: 700;
+}
+
+.member-title {
+    font-weight: 500;
+}
+
+@media (max-width: 400px) {
+    .team-container {
+        display: block;
+    }
+
+    .team-member {
+        width: 100%;
+    }
+}
