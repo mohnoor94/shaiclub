@@ -4,7 +4,7 @@ date: 2020-12-23
 draft: false
 categories: ["articles"]
 tags: ["feature", "extraction"]
-slug: feature-extraction-2020-12-23
+slug: feature-extraction
 ---
 
 

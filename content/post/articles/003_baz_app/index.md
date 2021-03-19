@@ -4,7 +4,7 @@ date: 2020-12-24
 draft: fasle
 categories: ["articles"]
 tags: ["Baaz", "Applications"]
-slug: baaz-app-2020-12-24
+slug: baaz-app
 
 cover:
     image: images/baaz.png
