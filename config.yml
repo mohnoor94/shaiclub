@@ -80,6 +80,8 @@ params:
       url: "https://www.facebook.com/AIClub"
     - name: instagram
       url: "https://instagram.com/shai_club"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UChrS4q5dnlCdmtucRW-yojQ"
 
   # label:
   #     text: "Home"
