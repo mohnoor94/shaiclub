@@ -134,7 +134,7 @@ layout: team
 {{< team-member
     name="سامي شبانة"
     img="images/sami-shabaneh.jpg"
-    title=Trainer""
+    title="Trainer"
 >}}
 
 
