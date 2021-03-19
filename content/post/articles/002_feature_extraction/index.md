@@ -5,6 +5,10 @@ draft: false
 categories: ["مقالات"]
 tags: ["feature", "extraction"]
 slug: feature-extraction
+cover:
+    image: images/feature-extraction.jpg
+    alt: Feature Extraction
+    caption: Feature Extraction
 ---
 
 

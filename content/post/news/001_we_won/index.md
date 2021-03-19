@@ -6,6 +6,10 @@ categories: ["أخبار"]
 tags: ["IEEE", "Shai Team", "Competition", "Winners", "مسابقات", "فريق شاي"]
 hideMeta: false
 slug: shai-members-won
+cover:
+    image: images/we-won.jpg
+    alt: تهنئة لأعضاء نادي شاي
+    caption: تهنئة لأعضاء نادي شاي
 ---
 
 الف مبارك لاعضاء نادي الذكاء الاصطناعي لفوزهم بالمركز الثاني في تيكاثون امازون بفكرتهم

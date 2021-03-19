@@ -5,6 +5,10 @@ draft: false
 categories: ["مقالات"]
 tags: ["Deep Fake", "التزييف العميق"]
 slug: deep-fake
+cover:
+  image: images/deep-fake.jpg
+  alt: Deep Fake | التزييف العميق
+  caption: Deep Fake | التزييف العميق
 ---
 
 «الجانب المظلم للذكاء الاصطناعي»
