@@ -23,10 +23,10 @@ languages:
     menu:
       main:
         - name: مقالات
-          url: categories/articles/
+          url: categories/مقالات/
           weight: 1
         - name: أخبار
-          url: categories/news/
+          url: categories/أخبار/
           weight: 2
         - name: فريقنا
           url: team
@@ -60,18 +60,18 @@ params:
 
   profileMode:
     enabled: true
-    title: Shai Club | نادي شاي التّقني
+    title: shAI Club | نادي شاي التّقني
     imageUrl: "safari-pinned-tab.svg"
     imageTitle: Shai Club logo
     imageWidth: 300
     imageHeight: 300
     buttons:
+      - name: مقالات
+        url: categories/مقالات
+      - name: أخبار
+        url: categories/أخبار
       - name: فريقنا
         url: team
-      - name: مقالات
-        url: categories/articles
-      - name: أخبار
-        url: categories/news
 
   socialIcons:
     - name: linkedin

@@ -2,7 +2,7 @@
 title: "Feature Extraction"
 date: 2020-12-23
 draft: false
-categories: ["articles"]
+categories: ["مقالات"]
 tags: ["feature", "extraction"]
 slug: feature-extraction
 ---

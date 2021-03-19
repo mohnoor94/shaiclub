@@ -1,7 +1,7 @@
 ---
 title: "We are the First | IEEE Take-OFF Competition"
 date: 2020-12-21
-categories: ["news"]
+categories: ["أخبار"]
 tags: ["IEEE", "Shai Team", "Competition", "Winners", "مسابقات", "فريق شاي"]
 hideMeta: false
 slug: ieee-take-off-competition

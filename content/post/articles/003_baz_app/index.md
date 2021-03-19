@@ -2,7 +2,7 @@
 title: "Baaz App"
 date: 2020-12-24
 draft: fasle
-categories: ["articles"]
+categories: ["مقالات"]
 tags: ["Baaz", "Applications"]
 slug: baaz-app
 

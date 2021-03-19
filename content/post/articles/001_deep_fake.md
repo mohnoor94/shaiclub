@@ -2,7 +2,7 @@
 title: "Deep Fake | التزييف العميق"
 date: 2020-12-22
 draft: false
-categories: ["articles"]
+categories: ["مقالات"]
 tags: ["Deep Fake", "التزييف العميق"]
 slug: deep-fake
 ---

@@ -2,7 +2,7 @@
 title: "تهنئة لأعضاء نادي شاي"
 date: 2020-12-21
 draft: false
-categories: ["news"]
+categories: ["أخبار"]
 tags: ["IEEE", "Shai Team", "Competition", "Winners", "مسابقات", "فريق شاي"]
 hideMeta: false
 slug: shai-members-won

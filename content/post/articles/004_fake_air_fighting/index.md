@@ -1,7 +1,7 @@
 ---
 title: "القتال الجوّي الكاذب | Fake Air Fighting 🛩"
 date: 2020-12-25
-categories: ["articles"]
+categories: ["مقالات"]
 tags: ["Fighting", "AI", "Experiments"]
 slug: fake-air-fighting
 cover:
