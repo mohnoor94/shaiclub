@@ -4,7 +4,6 @@ date: 2021-02-27T02:00:00
 categories: ["مقالات"]
 tags: ["AI", "Chemistry", "Experiment"]
 slug: schrodinger-equation
-hideMeta: true
 cover:
     image: images/schrodinger-equation.jpg
     alt: Schrödinger's Equation
