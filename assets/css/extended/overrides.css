@@ -40,3 +40,9 @@
         margin: auto auto 50px;
     }
 }
+
+/* list pages */
+
+.entry-cover {
+    display: block !important;
+}
