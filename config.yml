@@ -82,6 +82,8 @@ params:
       url: "https://instagram.com/shai_club"
     - name: youtube
       url: "https://www.youtube.com/channel/UChrS4q5dnlCdmtucRW-yojQ"
+    - name: email
+      url: "mailto:ai.juclub@gmail.com"
 
   # label:
   #     text: "Home"
