@@ -8,6 +8,13 @@ body {
     background-image: linear-gradient(315deg, #d5fefd 0%, #fffcff 74%);
 }
 
+.button {
+    background-color: #29e7cd;
+    background-image: linear-gradient(315deg, #29e7cd 0%, #fffbfc 74%);
+    font-size: 28px;
+    border-radius: 10px;
+}
+
 /* home page */
 
 .profile img {
