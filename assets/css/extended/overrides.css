@@ -71,7 +71,7 @@ body {
 /* article */
 
 .post-tags a, .share-buttons, .paginav {
-    border: 1px solid var(--c1);
+    border: none;
 }
 
 .post-tags a:hover,
