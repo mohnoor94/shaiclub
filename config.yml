@@ -61,17 +61,13 @@ params:
   profileMode:
     enabled: true
     title: >
-      shAI Club
-
-
-
       نادي شاي للذّكاء الاصطناعي
 
 
     imageUrl: "shAI-logo.png"
     imageTitle: Shai Club logo
-    imageWidth: 300
-    imageHeight: 250
+    imageWidth: 250
+    imageHeight: 200
     buttons:
       - name: مقالات
         url: categories/مقالات
