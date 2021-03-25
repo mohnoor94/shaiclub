@@ -56,7 +56,7 @@ params:
   ShowToc: false
   TocOpen: false
   #  comments: true
-  # images: ["papermod-cover.png"]
+  images: ["shAI-logo.png"]
 
   profileMode:
     enabled: true
