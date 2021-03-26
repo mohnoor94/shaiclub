@@ -1,7 +1,5 @@
 ---
 title: "فريق نادي شاي"
-date: 2021-03-19T19:29:24+02:00
-tags: [""]
 slug: team
 layout: team
 ---
@@ -26,17 +24,17 @@ layout: team
     title="Trainings Leader / Trainer"
 >}}
 
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
-
 {{< team-member
     name="سوار يوسف"
     img="images/sewar-youser.jpg"
     title="Social Media Leader"
 >}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
 
 {{< team-member
     name="فارس حمصي"
@@ -50,12 +48,6 @@ layout: team
     title="Training Coordinator"
 >}}
 
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
-
 {{< team-member
     name="\"محمد نور\" أبو خليف "
     img="images/mohammad-noor-abukhleif.jpg"
@@ -68,16 +60,17 @@ layout: team
     title="FB Page Coordinator"
 >}}
 
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
 
 {{< team-member
     name="حمزة زعاترة"
     img="images/hamza-zaatreh.jpg"
     title="Graphic Designer"
 >}}
-
-{{</ team-container >}}
-
-{{< team-container >}}
 
 {{< team-member
     name="هيام المحمود"
@@ -91,7 +84,6 @@ layout: team
     title="LinkedIn Page Coordinator"
 >}}
 
-
 {{< team-member
     name="آية عريضة"
     img="images/aya-areeda.jpg"
@@ -99,6 +91,8 @@ layout: team
 >}}
 
 {{</ team-container >}}
+
+
 
 {{< team-container >}}
 
@@ -121,15 +115,17 @@ layout: team
     title="Mentor"
 >}}
 
-{{</ team-container >}}
-
-{{< team-container >}}
-
 {{< team-member
     name="رحمة النّجّار"
     img="images/rahmeh-alnajjar.jpg"
     title="Trainer / Content Writer"
 >}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
 
 {{< team-member
     name="سامي شبانة"
@@ -137,17 +133,11 @@ layout: team
     title="Trainer"
 >}}
 
-
 {{< team-member
     name="رمال بسّام"
     img="images/remal-bassam.jpg"
     title="Content Writer"
 >}}
-
-{{</ team-container >}}
-
-
-{{< team-container >}}
 
 {{< team-member
     name="رنا أبو عيشة"
@@ -160,17 +150,17 @@ layout: team
     img="images/zaid-adarbeh.jpg"
     title="Content Writer"
 >}}
+{{</ team-container >}}
 
+
+
+{{< team-container >}}
 
 {{< team-member
     name="سامي البدري"
     img="images/sami-elbadri.jpg"
     title="Content Writer"
 >}}
-
-{{</ team-container >}}
-
-{{< team-container >}}
 
 {{< team-member
     name="يوسف قواريق"
@@ -183,7 +173,6 @@ layout: team
     img="images/mohammad-khader.jpg"
     title="Trainer"
 >}}
-
 
 {{< team-member
     name="عمر ميشة"
