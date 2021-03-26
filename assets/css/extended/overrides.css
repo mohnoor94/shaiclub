@@ -78,3 +78,53 @@ body {
 .paginav a:hover {
     background: var(--code-bg2);
 }
+
+
+/* profile */
+
+.profile-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.profile-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.profile-position {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.profile-team {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.profile-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.profile-icon {
+    height: 26px;
+    width: 26px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+.profile-bio {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}

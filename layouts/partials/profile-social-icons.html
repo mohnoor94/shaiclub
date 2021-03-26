@@ -1,0 +1,51 @@
+<div class="profile-icons">
+  {{- if .Params.linkedIn }}
+  <div class="profile-icon">
+    <a href="https://www.linkedin.com/in/{{ .Params.linkedIn }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "linkedIn" }}">{{ partial "svg.html" (dict "name" "linkedIn") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.github }}
+  <div class="profile-icon">
+    <a href="https://github.com/{{ .Params.github }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "github" }}">{{ partial "svg.html" (dict "name" "github") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.stackoverflow }}
+  <div class="profile-icon">
+    <a href="https://stackoverflow.com/users/{{ .Params.stackoverflow }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "stackoverflow" }}">{{ partial "svg.html" (dict "name" "stackoverflow") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.youtube }}
+  <div class="profile-icon">
+    <a href="{{ .Params.youtube }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "youtube" }}">{{ partial "svg.html" (dict "name" "youtube") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.email }}
+  <div class="profile-icon">
+    <a href="mailto:{{ .Params.email }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "email" }}">{{ partial "svg.html" (dict "name" "email") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.facebook }}
+  <div class="profile-icon">
+    <a href="https://web.facebook.com/{{ .Params.facebook }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "facebook" }}">{{ partial "svg.html" (dict "name" "facebook") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.twitter }}
+  <div class="profile-icon">
+    <a href="https://twitter.com/{{ .Params.twitter }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "twitter" }}">{{ partial "svg.html" (dict "name" "twitter") }}</a>
+  </div>
+  {{- end }}
+
+</div>

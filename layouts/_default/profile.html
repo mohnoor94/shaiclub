@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}" dir="{{ .Language.LanguageDirection | default " auto" }}">
+
+<head>
+  {{- partial "head.html" . }}
+</head>
+
+<body  class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print " list" -}}
+{{- end -}}
+{{- if eq $.Site.Params.defaultTheme `dark` -}}
+{{- print " dark" }}
+{{- end -}}
+" id="top">
+{{- partialCached "header.html" . .Page}}
+<main class="main profile-page">
+   <header class="post-header">
+      {{- partial "breadcrumbs.html" . }}
+      <h1 class="post-title" style="text-align: center; margin-bottom: 75px;">
+        {{ .Title }}
+      </h1>
+
+      {{- if .Params.image }}
+      <div class="profile-image-container">
+        <img src="{{ (path.Join .RelPermalink .Params.image) | absURL }}" alt=" {{ .Params.name }}" class="profile-image">
+      </div>
+      {{- end }}
+
+      <div class="profile-info">
+        {{ partial "profile-position.html" . }}
+        {{ partial "profile-team.html" . }}
+        {{ partial "profile-social-icons.html" . }}
+        {{ partial "profile-bio.html" . }}
+      </div>
+
+    </header>
+    {{- partial "anchored_headings.html" .Content -}}
+</main>
+{{- partialCached "footer.html" . .Type .Layout .Params }}
+</body>
+
+</html>
