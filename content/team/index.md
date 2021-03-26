@@ -175,7 +175,7 @@ layout: team
 >}}
 
 {{< team-member
-    name="عمر ميشة"
+    name="عمر مشّة"
     img="images/omar-mesheh.jpg"
     title="Trainer"
 >}}
