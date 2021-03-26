@@ -8,25 +8,25 @@ layout: team
 
 {{< team-member
     name="تسنيم علي"
-    img="images/tasnim-ali.jpg"
+    img="images/small/tasnim-ali.jpg"
     title="Co-Founder and Director / Trainer"
 >}}
 
 {{< team-member
     name="د. محمد عبد المجيد"
-    img="images/mohammad-abdelmajeed.jpg"
+    img="images/small/mohammad-abdelmajeed.jpg"
     title="Co-Founder / Consultant (JU Branch)"
 >}}
 
 {{< team-member
     name="أسامة فتياني"
-    img="images/osama-fityani.jpg"
+    img="images/small/osama-fityani.jpg"
     title="Trainings Leader / Trainer"
 >}}
 
 {{< team-member
     name="سوار يوسف"
-    img="images/sewar-youser.jpg"
+    img="images/small/sewar-youser.jpg"
     title="Social Media Leader"
 >}}
 
@@ -38,25 +38,25 @@ layout: team
 
 {{< team-member
     name="فارس حمصي"
-    img="images/faris-homsi.jpg"
+    img="images/small/faris-homsi.jpg"
     title="Training Coordinator / Trainer"
 >}}
 
 {{< team-member
     name="أحمد لافي"
-    img="images/ahmad-lafi.jpg"
+    img="images/small/ahmad-lafi.jpg"
     title="Training Coordinator"
 >}}
 
 {{< team-member
     name="\"محمد نور\" أبو خليف "
-    img="images/mohammad-noor-abukhleif.jpg"
+    img="images/small/mohammad-noor-abukhleif.jpg"
     title="Trainer / Consultant"
 >}}
 
 {{< team-member
     name="أماني معايعة"
-    img="images/amany-maayah.jpg"
+    img="images/small/amany-maayah.jpg"
     title="FB Page Coordinator"
 >}}
 
@@ -68,25 +68,25 @@ layout: team
 
 {{< team-member
     name="حمزة زعاترة"
-    img="images/hamza-zaatreh.jpg"
+    img="images/small/hamza-zaatreh.jpg"
     title="Graphic Designer"
 >}}
 
 {{< team-member
     name="هيام المحمود"
-    img="images/heyam-almahmoud.jpg"
+    img="images/small/heyam-almahmoud.jpg"
     title="Trainer / Mentor"
 >}}
 
 {{< team-member
     name="رنيم موسى"
-    img="images/raneem-mousa.jpg"
+    img="images/small/raneem-mousa.jpg"
     title="LinkedIn Page Coordinator"
 >}}
 
 {{< team-member
     name="آية عريضة"
-    img="images/aya-areeda.jpg"
+    img="images/small/aya-areeda.jpg"
     title="Mentor"
 >}}
 
@@ -98,26 +98,26 @@ layout: team
 
 {{< team-member
     name="صالح حجّاوي"
-    img="images/saleh-hijjawi.jpg"
+    img="images/small/saleh-hijjawi.jpg"
     title="Content Writer"
 >}}
 
 {{< team-member
     name="شذى القريوتي"
-    img="images/shatha-alqaruti.jpg"
+    img="images/small/shatha-alqaruti.jpg"
     title="Mentor"
 >}}
 
 
 {{< team-member
     name="محمد مسعود"
-    img="images/mohammad-masoud.jpg"
+    img="images/small/mohammad-masoud.jpg"
     title="Mentor"
 >}}
 
 {{< team-member
     name="رحمة النّجّار"
-    img="images/rahmeh-alnajjar.jpg"
+    img="images/small/rahmeh-alnajjar.jpg"
     title="Trainer / Content Writer"
 >}}
 
@@ -129,25 +129,25 @@ layout: team
 
 {{< team-member
     name="سامي شبانة"
-    img="images/sami-shabaneh.jpg"
+    img="images/small/sami-shabaneh.jpg"
     title="Trainer"
 >}}
 
 {{< team-member
     name="رمال بسّام"
-    img="images/remal-bassam.jpg"
+    img="images/small/remal-bassam.jpg"
     title="Content Writer"
 >}}
 
 {{< team-member
     name="رنا أبو عيشة"
-    img="images/shai-placeholder.jpg"
+    img="images/small/shai-placeholder.jpg"
     title="Mentor"
 >}}
 
 {{< team-member
     name="زيد عداربة"
-    img="images/zaid-adarbeh.jpg"
+    img="images/small/zaid-adarbeh.jpg"
     title="Content Writer"
 >}}
 {{</ team-container >}}
@@ -158,25 +158,25 @@ layout: team
 
 {{< team-member
     name="سامي البدري"
-    img="images/sami-elbadri.jpg"
+    img="images/small/sami-elbadri.jpg"
     title="Content Writer"
 >}}
 
 {{< team-member
     name="يوسف قواريق"
-    img="images/yusuf-qwareeq.jpg"
+    img="images/small/yusuf-qwareeq.jpg"
     title="Content Writer"
 >}}
 
 {{< team-member
     name="محمد خضر"
-    img="images/mohammad-khader.jpg"
+    img="images/small/mohammad-khader.jpg"
     title="Trainer"
 >}}
 
 {{< team-member
     name="عمر مشّة"
-    img="images/omar-mesheh.jpg"
+    img="images/small/omar-mesheh.jpg"
     title="Trainer"
 >}}
 
