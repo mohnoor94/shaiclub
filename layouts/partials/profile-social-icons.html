@@ -41,6 +41,20 @@
   </div>
   {{- end }}
 
+  {{- if .Params.instagram }}
+  <div class="profile-icon">
+    <a href="https://www.instagram.com/{{ .Params.instagram }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "instagram" }}">{{ partial "svg.html" (dict "name" "instagram") }}</a>
+  </div>
+  {{- end }}
+
+  {{- if .Params.snapchat }}
+  <div class="profile-icon">
+    <a href="https://www.snapchat.com/add/{{ .Params.instagram }}" target="_blank" rel="noopener noreferrer me"
+       title="{{ "snapchat" }}">{{ partial "svg.html" (dict "name" "snapchat") }}</a>
+  </div>
+  {{- end }}
+
   {{- if .Params.twitter }}
   <div class="profile-icon">
     <a href="https://twitter.com/{{ .Params.twitter }}" target="_blank" rel="noopener noreferrer me"
