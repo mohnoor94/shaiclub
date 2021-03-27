@@ -1,6 +1,7 @@
 ---
 title: "\"محمد نور\" أبو خليف "
 slug: noor
+aliases: ["/team/noor"]
 layout: profile
 
 name: "\"محمد نور\" أبو خليف "

@@ -1,6 +1,7 @@
 ---
 title: تسنيم علي
 slug: tasnim
+aliases: ["/team/tasnim"]
 layout: profile
 
 name: تسنيم علي
