@@ -1,0 +1,10 @@
+<div class="profiles-teams">
+  {{- if .Params.teams }}
+  {{  $teams := .Params.teams }}
+  {{ range $teams  }}
+  <div class="profile-team button">
+    {{ . }}
+  </div>
+  {{- end }}
+  {{- end }}
+</div>
