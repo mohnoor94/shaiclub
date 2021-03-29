@@ -103,10 +103,21 @@ body {
     font-size: 28px;
 }
 
-.profile-team {
+.profiles-teams {
     margin-top: 10px;
-    font-weight: 500;
-    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.profile-team {
+    font-weight: 400;
+    background: var( --code-bg2);
+    display: inline-block;
+
+    /*make text unselectable*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 .profile-icons {
