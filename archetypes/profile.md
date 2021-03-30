@@ -6,7 +6,6 @@ layout: profile
 
 name: "{{ replace .Name "-" " " | title }}"
 image: ../images/
-position: 
 teams: [] 
 bio: 
 
