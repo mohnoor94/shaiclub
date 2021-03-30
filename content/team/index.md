@@ -1,7 +1,7 @@
 ---
 title: "فريق نادي شاي"
 slug: team
-layout: team
+layout: shai-team
 ---
 
 {{< team-container >}}
