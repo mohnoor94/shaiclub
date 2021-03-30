@@ -10,6 +10,7 @@ layout: shai-team
     name="تسنيم علي"
     img="images/tasnim-ali.jpg"
     title="Co-Founder and Director / Trainer"
+    profile="tasnim"
 >}}
 
 {{< team-member
@@ -52,6 +53,7 @@ layout: shai-team
     name="\"محمد نور\" أبو خليف "
     img="images/mohammad-noor-abukhleif.jpg"
     title="Trainer / Consultant"
+    profile="noor"
 >}}
 
 {{< team-member
@@ -76,6 +78,7 @@ layout: shai-team
     name="هيام المحمود"
     img="images/heyam-almahmoud.jpg"
     title="Trainer / Mentor"
+    profile="heyam"
 >}}
 
 {{< team-member
