@@ -6,7 +6,6 @@ layout: profile
 
 name: تسنيم علي
 image: ../images/tasnim-ali.jpg
-position: إداريّة، ومرشدة
 teams: ["فريق الإدارة", "فريق الإرشاد"]
 
 linkedIn: tasnim-ali-901243159
