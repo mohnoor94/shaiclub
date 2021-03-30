@@ -1,10 +1,14 @@
 <div class="profiles-teams">
   {{- if .Params.teams }}
   {{  $teams := .Params.teams }}
-  {{ range $teams  }}
-  <div class="profile-team button">
-    {{ . }}
-  </div>
-  {{- end }}
+
+  <ul class="profile-teams">
+    {{- range ($.GetTerms "teams") }}
+    <li>
+      <a class="profile-team button" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+    </li>
+    {{- end }}
+  </ul>
+
   {{- end }}
 </div>
