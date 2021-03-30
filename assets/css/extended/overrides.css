@@ -103,16 +103,21 @@ body {
     margin-bottom: 10px;
 }
 
-.profile-team {
-    font-weight: 400;
-    background: var( --code-bg2);
+.profile-teams li {
     display: inline-block;
+    text-align: center;
+}
 
-    /*make text unselectable*/
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+.profile-teams a {
+    display: inline-block;
+    padding: 5px 20px;
+    background: var(--code-bg2);
+    transition: transform .1s
+}
+
+.profile-teams a:active {
+    background: var(--code-bg);
+    transform: scale(.96)
 }
 
 .profile-icons {
@@ -134,4 +139,49 @@ body {
 .profile-bio {
     margin-top: 50px;
     margin-bottom: 30px;
+}
+
+
+/*;teams page*/
+
+.teams li {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.teams a {
+    display: inline-block;
+    padding: 15px 50px;
+    background: var(--code-bg2);
+    border-radius: 20px;
+    transition: transform .1s
+}
+
+.teams a:active {
+    background: var(--code-bg);
+    transform: scale(.96)
+}
+
+
+/*list team page*/
+
+.list-team-member {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    border-radius: 20px;
+    background: var(--code-bg);
+    transition: transform .1s;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.list-team-member:active {
+    background: var(--code-bg2);
+    transform: scale(.96)
 }

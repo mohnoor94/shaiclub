@@ -118,6 +118,7 @@ taxonomies:
   category: categories
   tag: tags
   series: series
+  team: teams
 
 privacy:
   vimeo:
