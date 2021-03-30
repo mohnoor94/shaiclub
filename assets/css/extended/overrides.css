@@ -42,6 +42,28 @@ body {
     margin: 10px;
 }
 
+.team-member-with-profile {
+    background: var(--code-bg);
+    border-radius: 20px;
+    padding: 5px;
+    display: block;
+}
+
+.team-member-with-profile:hover {
+    background: var(--code-bg2);
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+
+.team-member-with-profile:hover .team-member-image {
+    transform: rotateY(180deg);
+}
+
+.team-member-with-profile:active {
+    background: var(--code-bg);
+    transform: scale(.96);
+}
+
 .member-name {
     font-weight: 700;
 }
@@ -58,6 +80,21 @@ body {
     .team-member {
         width: 70%;
         margin: auto auto 50px;
+    }
+
+    .team-member-with-profile:hover {
+        background: var(--code-bg2);
+        transform: scale(1.1);
+        transition: transform 1s;
+    }
+
+    .team-member-with-profile:hover .team-member-image {
+        transform: rotateY(180deg);
+    }
+
+    .team-member-with-profile:active {
+        background: var(--code-bg);
+        transform: scale(.96);
     }
 }
 
