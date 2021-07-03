@@ -1,5 +1,5 @@
 baseURL: "https://www.shaiclub.com"
-title: نادي شاي للذّكاء الاصطناعي
+title: شاي للذّكاء الاصطناعي
 paginate: 5
 theme: PaperMod
 
@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true
     title: >
-      نادي شاي للذّكاء الاصطناعي
+      شاي للذّكاء الاصطناعي
 
 
     imageUrl: "shAI-logo.png"
@@ -89,7 +89,7 @@ params:
       url: "mailto:ai.juclub@gmail.com"
 
   label:
-    text: نادي شاي للذّكاء الاصطناعي
+    text: شاي للذّكاء الاصطناعي
     icon: /shAI-logo.png
     iconHeight: 50
 
