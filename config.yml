@@ -76,8 +76,6 @@ params:
         url: categories/مقالات
       - name: أخبار
         url: categories/أخبار
-      - name: فريقنا
-        url: team
 
   socialIcons:
     - name: linkedin
