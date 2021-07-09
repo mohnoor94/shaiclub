@@ -8,4 +8,4 @@ A repo of [our website](https://www.shaiclub.com/).
 | `hugo server -D` | Run the website locally (show draft posts) |
 | `hugo new post/articles/[post-title]/index.md` | Create new article post |
 | `hugo new post/news/[post-title]/index.md` | Create new news post |
-| `hugo new profile/[name]/index.md` | Create new team member profile | 
+| `hugo new profile/[name].md` | Create new team member profile | 
