@@ -80,7 +80,7 @@ params:
     - name: facebook
       url: "https://www.facebook.com/AIClub"
     - name: instagram
-      url: "https://instagram.com/shai_club"
+      url: "https://instagram.com/shai_for_ai"
     - name: youtube
       url: "https://www.youtube.com/channel/UChrS4q5dnlCdmtucRW-yojQ"
     - name: email
