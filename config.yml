@@ -56,7 +56,7 @@ params:
   ShowToc: false
   TocOpen: false
   #  comments: true
-  images: ["shAI-logo.png"]
+  images: ["shai.png"]
 
   profileMode:
     enabled: true
@@ -64,10 +64,10 @@ params:
       شاي للذّكاء الاصطناعي
 
 
-    imageUrl: "shAI-logo.png"
+    imageUrl: "shai.png"
     imageTitle: Shai Club logo
-    imageWidth: 250
-    imageHeight: 200
+    imageWidth: 400
+    imageHeight: 400
     buttons:
       - name: مقالات
         url: categories/مقالات
@@ -90,7 +90,7 @@ params:
 
   label:
     text: شاي للذّكاء الاصطناعي
-    icon: /shAI-logo.png
+    icon: /shai.png
     iconHeight: 50
 
   assets:
