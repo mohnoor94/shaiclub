@@ -31,9 +31,6 @@ languages:
         - name: من نحن؟
           url: about
           weight: 3
-        - name: فريقنا
-          url: team
-          weight: 4
 
 outputs:
   home:
