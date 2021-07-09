@@ -28,9 +28,12 @@ languages:
         - name: أخبار
           url: categories/أخبار/
           weight: 2
+        - name: من نحن؟
+          url: about
+          weight: 3
         - name: فريقنا
           url: team
-          weight: 3
+          weight: 4
 
 outputs:
   home:
