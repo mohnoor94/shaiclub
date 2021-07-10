@@ -30,6 +30,13 @@ body {
     border-radius: 0;
 }
 
+@media (max-width: 600px) {
+    .profile_inner img {
+        max-height: 350px;
+        max-width: 350px;
+    }
+}
+
 /* team */
 
 .team-page {

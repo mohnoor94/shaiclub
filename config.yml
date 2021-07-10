@@ -66,8 +66,8 @@ params:
 
     imageUrl: "shai.png"
     imageTitle: Shai Club logo
-    imageWidth: 400
-    imageHeight: 400
+    imageWidth: 500
+    imageHeight: 500
     buttons:
       - name: مقالات
         url: categories/مقالات
