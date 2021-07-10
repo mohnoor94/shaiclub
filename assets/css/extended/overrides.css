@@ -26,6 +26,10 @@ body {
 
 /* home page */
 
+.main .profile {
+    position: relative;
+}
+
 .profile img {
     border-radius: 0;
 }
