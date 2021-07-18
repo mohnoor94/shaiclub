@@ -1,5 +1,5 @@
 ---
-title: أسامة فتياني
+title: أسامة الفتياني
 slug: osama
 aliases: ["/team/osama"]
 layout: profile
