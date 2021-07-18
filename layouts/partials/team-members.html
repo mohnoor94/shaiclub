@@ -6,7 +6,7 @@
 
 {{- $pages := union .RegularPages .Sections }}
 
-{{ $paginator := .Paginate $pages }}
+{{ $paginator := .Paginate $pages 100 }}
 
 {{- range $index, $page := $paginator.Pages }}
 
