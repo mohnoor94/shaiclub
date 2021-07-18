@@ -2,7 +2,7 @@
 title: "Power BI"
 date: 2021-03-15
 categories: ["مقالات"]
-tags: ["PowerBI", "DataVisualization", "DataScience", "Tools"]
+tags: ["Power BI", "Data Visualization", "Data Science", "Tools"]
 author: Faris ALhomsi
 cover:
     image: images/power-BI.png
