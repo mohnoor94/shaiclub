@@ -9,29 +9,29 @@ layout: shai-team
 {{< team-member
     name="تسنيم علي"
     img="images/tasnim-ali.png"
-    title="Founder and Director / Trainer"
+    title="مؤسس، إداري، مدرّب"
     profile="tasnim"
 >}}
 
 {{< team-member
     name="د. محمد عبد المجيد"
     img="images/mabdulmajeed.jpg"
-    title="Consultant (JU Branch)"
+    title="استشاري"
     profile="mabdulmajeed"
 >}}
 
 {{< team-member
-    name="أسامة فتياني"
+    name="أسامة الفتياني"
     img="images/osama.png"
-    title="Trainings Leader / Trainer"
+    title="إداري، مدرّب"
     profile="osama"
 >}}
 
 {{< team-member
-name="\"محمد نور\" أبو خليف "
-img="images/noor.png"
-title="Trainer / Consultant"
-profile="noor"
+    name="\"محمد نور\" أبو خليف "
+    img="images/noor.png"
+    title="استشاري، مدرّب، مطوّر"
+    profile="noor"
 >}}
 
 {{</ team-container >}}
@@ -41,16 +41,39 @@ profile="noor"
 {{< team-container >}}
 
 {{< team-member
-    name="فارس حمصي"
-    img="images/faris-homsi.jpg"
-    title="Training Coordinator / Trainer"
+    name="شذى القريوتي"
+    img="images/shatha.png"
+    title="مسؤول العلاقات العامة والأنشطة"
+    profile="shatha"
+>}}
+
+{{< team-member
+    name="رحمة النّجّار"
+    img="images/rahmeh.png"
+    title="مدرّب"
+    profile="rahmeh"
 >}}
 
 {{< team-member
     name="أحمد لافي"
     img="images/ahmad-lafi.jpg"
-    title="Training Coordinator"
+    title="مدرّب"
+    profile="ahmadlafi"
 >}}
+
+{{< team-member
+    name="فارس الحمصي"
+    img="images/faris.png"
+    title="مدرّب"
+    profile="faris"
+
+>}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
 
 {{< team-member
 name="سوار يوسف"
@@ -62,6 +85,19 @@ title="Social Media Leader"
     name="أماني معايعة"
     img="images/amany-maayah.jpg"
     title="FB Page Coordinator"
+>}}
+
+{{< team-member
+    name="صالح حجّاوي"
+    img="images/saleh-hijjawi.jpg"
+    title="Content Writer"
+>}}
+
+
+{{< team-member
+    name="محمد مسعود"
+    img="images/mohammad-masoud.jpg"
+    title="Mentor"
 >}}
 
 {{</ team-container >}}
@@ -102,37 +138,6 @@ title="Social Media Leader"
 {{< team-container >}}
 
 {{< team-member
-    name="صالح حجّاوي"
-    img="images/saleh-hijjawi.jpg"
-    title="Content Writer"
->}}
-
-{{< team-member
-    name="شذى القريوتي"
-    img="images/shatha-alqaruti.jpg"
-    title="Mentor"
->}}
-
-
-{{< team-member
-    name="محمد مسعود"
-    img="images/mohammad-masoud.jpg"
-    title="Mentor"
->}}
-
-{{< team-member
-    name="رحمة النّجّار"
-    img="images/rahmeh-alnajjar.jpg"
-    title="Trainer / Content Writer"
->}}
-
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
-
-{{< team-member
     name="سامي شبانة"
     img="images/sami-shabaneh.jpg"
     title="Trainer"
@@ -163,7 +168,7 @@ title="Social Media Leader"
 
 {{< team-member
     name="سامي البدري"
-    img="images/sami-elbadri.jpg"
+    img="images/shai-placeholder.jpg"
     title="Content Writer"
 >}}
 

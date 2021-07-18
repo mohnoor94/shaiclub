@@ -4,11 +4,10 @@ slug: osama
 aliases: ["/team/osama"]
 layout: profile
 
-name: أسامة فتياني
+name: أسامة الفتياني
 image: ../images/osama.png
-email: TasnimAli97@hotmail.com
 teams: [
-"فريق الادارة",
+"فريق الإدارة",
 "فريق التدريب"
 ]
 bio:  إداري في شاي للذكاء الاصطناعي، طالب هندسة ميكاترونكس في الجامعة الأردنية
