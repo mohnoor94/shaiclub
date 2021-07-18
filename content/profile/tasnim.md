@@ -5,12 +5,17 @@ aliases: ["/team/tasnim"]
 layout: profile
 
 name: تسنيم علي
-image: ../images/tasnim-ali.jpg
-teams: ["فريق الإدارة", "فريق الإرشاد"]
+image: ../images/tasnim-ali.png
+teams: [
+"فريق الادارة",
+"فريق التدريب"
+]
+bio:   المؤسسة والمديرة التنفيذية لشاي للذكاء الاصطناعي، مهندسة حاسوب خريجة الجامعة الاردنية و اعمل sكمهندسة تطوير برمجيات لدى شركة امازون
 
 linkedIn: tasnim-ali-901243159
 github: TasnimAli97
 twitter: TasnimAli10
 facebook: 100010162691923
+email: TasnimAli97@hotmail.com
 ---
 

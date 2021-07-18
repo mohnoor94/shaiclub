@@ -1,5 +1,5 @@
 ---
-title: "فريق نادي شاي"
+title: "فريق شاي"
 slug: team
 layout: shai-team
 ---
@@ -8,27 +8,30 @@ layout: shai-team
 
 {{< team-member
     name="تسنيم علي"
-    img="images/tasnim-ali.jpg"
-    title="Co-Founder and Director / Trainer"
+    img="images/tasnim-ali.png"
+    title="Founder and Director / Trainer"
     profile="tasnim"
 >}}
 
 {{< team-member
     name="د. محمد عبد المجيد"
-    img="images/mohammad-abdelmajeed.jpg"
-    title="Co-Founder / Consultant (JU Branch)"
+    img="images/mabdulmajeed.jpg"
+    title="Consultant (JU Branch)"
+    profile="mabdulmajeed"
 >}}
 
 {{< team-member
     name="أسامة فتياني"
-    img="images/osama-fityani.jpg"
+    img="images/osama.png"
     title="Trainings Leader / Trainer"
+    profile="osama"
 >}}
 
 {{< team-member
-    name="سوار يوسف"
-    img="images/sewar-youser.jpg"
-    title="Social Media Leader"
+name="\"محمد نور\" أبو خليف "
+img="images/noor.png"
+title="Trainer / Consultant"
+profile="noor"
 >}}
 
 {{</ team-container >}}
@@ -50,10 +53,9 @@ layout: shai-team
 >}}
 
 {{< team-member
-    name="\"محمد نور\" أبو خليف "
-    img="images/mohammad-noor-abukhleif.jpg"
-    title="Trainer / Consultant"
-    profile="noor"
+name="سوار يوسف"
+img="images/sewar-youser.jpg"
+title="Social Media Leader"
 >}}
 
 {{< team-member
