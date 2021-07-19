@@ -5,7 +5,7 @@ aliases: ["/team/osama"]
 layout: profile
 
 name: أسامة الفتياني
-image: ../images/osama.png
+image: ../../team/images/osama.png
 teams: [
 "فريق الإدارة",
 "فريق التدريب"

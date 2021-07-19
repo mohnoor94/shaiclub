@@ -5,7 +5,7 @@ aliases: ["/team/ahmadlafi"]
 layout: profile
 
 name: أحمد لافي
-image: ../images/ahmad-lafi.jpg
+image: ../../team/images/ahmad-lafi.jpg
 teams: [
 "فريق التدريب",
 "فريق الأنشطة والعلاقات العامة"

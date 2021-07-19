@@ -5,7 +5,7 @@ aliases: ["/team/tasnim"]
 layout: profile
 
 name: تسنيم علي
-image: ../images/tasnim-ali.png
+image: ../../team/images/tasnim-ali.png
 teams: [
 "فريق الإدارة",
 "فريق التدريب"

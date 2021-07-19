@@ -5,7 +5,7 @@ aliases: ["/team/zeinaaburuqaia"]
 layout: profile
 
 name: زينة أبورقية
-image: ../images/zeina-abu-ruqaia.png
+image: ../../team/images/zeina-abu-ruqaia.png
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

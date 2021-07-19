@@ -5,7 +5,7 @@ aliases: ["/team/omarmesheh"]
 layout: profile
 
 name: عمر مشّة
-image: ../images/omar-mesheh.jpg
+image: ../../team/images/omar-mesheh.jpg
 teams: [
 "فريق التّواصل الاجتماعي",
 "فريق التدريب"

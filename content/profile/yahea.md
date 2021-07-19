@@ -5,7 +5,7 @@ aliases: ["/team/yaheaalashkar"]
 layout: profile
 
 name: يحيى الأشقر
-image: ../images/yahea.png
+image: ../../team/images/yahea.png
 teams: [
 "فريق التدريب"
 ]

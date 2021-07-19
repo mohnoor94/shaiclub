@@ -5,7 +5,7 @@ aliases: ["/team/shathaalqaruti"]
 layout: profile
 
 name: شذى القريوتي
-image: ../images/shatha.png
+image: ../../team/images/shatha.png
 teams: [
 "فريق الأنشطة والعلاقات العامة"
 ]

@@ -5,7 +5,7 @@ aliases: ["/team/nouralharahsheh"]
 layout: profile
 
 name: نور حراحشة
-image: ../images/nour-alharahsheh.png
+image: ../../team/images/nour-alharahsheh.png
 teams: [
 "فريق الفيديو والمونتاج",
 ]

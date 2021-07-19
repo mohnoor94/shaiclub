@@ -5,7 +5,7 @@ aliases: ["/team/zaidaladarbi"]
 layout: profile
 
 name: زيد طارق العداربه
-image: ../images/zaid-adarbeh.jpg
+image: ../../team/images/zaid-adarbeh.jpg
 teams: [
 "فريق التّواصل الاجتماعي",
 "فريق التدريب",

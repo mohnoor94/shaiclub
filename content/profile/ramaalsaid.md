@@ -5,7 +5,7 @@ aliases: ["/team/ramaalsaid"]
 layout: profile
 
 name: راما السعيد
-image: ../images/rama-alsaid.png
+image: ../../team/images/rama-alsaid.png
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

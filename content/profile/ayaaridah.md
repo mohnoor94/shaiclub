@@ -5,7 +5,7 @@ aliases: ["/team/ayaaridah"]
 layout: profile
 
 name: آية عريضة
-image: ../images/aya-areeda.jpg
+image: ../../team/images/aya-areeda.jpg
 teams: [
 "فريق الفيديو والمونتاج",
 ]

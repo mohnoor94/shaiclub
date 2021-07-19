@@ -5,7 +5,7 @@ aliases: ["/team/mohammadmasoud"]
 layout: profile
 
 name: محمد مسعود
-image: ../images/mohammad-masoud.png
+image: ../../team/images/mohammad-masoud.png
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

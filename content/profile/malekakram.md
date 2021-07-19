@@ -5,7 +5,7 @@ aliases: ["/team/malekakram"]
 layout: profile
 
 name: مالك الدبسي
-image: ../images/malek-akram.png
+image: ../../team/images/malek-akram.png
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

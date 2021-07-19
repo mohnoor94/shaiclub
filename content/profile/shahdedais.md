@@ -5,7 +5,7 @@ aliases: ["/team/shahdedais"]
 layout: profile
 
 name: شهد ادعيس
-image: ../images/shahd-edais.png
+image: ../../team/images/shahd-edais.png
 teams: [
 "فريق الأنشطة والعلاقات العامة",
 ]

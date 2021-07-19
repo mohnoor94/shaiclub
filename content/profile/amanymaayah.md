@@ -5,7 +5,7 @@ aliases: ["/team/amanymaayah"]
 layout: profile
 
 name: أماني المعايعة
-image: ../images/amany-maayah.jpg
+image: ../../team/images/amany-maayah.jpg
 teams: [
 "فريق التدريب",
 ]

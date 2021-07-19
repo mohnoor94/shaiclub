@@ -5,7 +5,7 @@ aliases: ["/team/farishomsi"]
 layout: profile
 
 name: فارس الحمصي
-image: ../images/faris.png
+image: ../../team/images/faris.png
 teams: [
 "فريق التدريب",
 "فريق الأنشطة والعلاقات العامة"

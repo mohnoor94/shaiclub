@@ -5,7 +5,7 @@ aliases: ["/team/mabdulmajeed"]
 layout: profile
 
 name: د. محمد عبد المجيد
-image: ../images/mabdulmajeed.jpg
+image: ../../team/images/mabdulmajeed.jpg
 teams: [
 "فريق الإدارة"
 ]

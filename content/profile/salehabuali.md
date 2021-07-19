@@ -5,7 +5,7 @@ aliases: ["/team/salehabuali"]
 layout: profile
 
 name: أسامة الفتياني
-image: ../images/saleh-abuali.jpg
+image: ../../team/images/saleh-abuali.jpg
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

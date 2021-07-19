@@ -5,7 +5,7 @@ aliases: ["/team/abdullahabusalemeh"]
 layout: profile
 
 name: عبد الله أبو سليمة
-image: ../images/abusalemeh.png
+image: ../../team/images/abusalemeh.png
 teams: [
 "فريق التدريب",
 "فريق الأنشطة والعلاقات العامة"

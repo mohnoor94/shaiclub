@@ -5,7 +5,7 @@ aliases: ["/team/sewaryousef"]
 layout: profile
 
 name: سوار دغيم
-image: ../images/sewar-youser.png
+image: ../../team/images/sewar-youser.png
 teams: [
 "فريق الفيديو والمونتاج",
 ]

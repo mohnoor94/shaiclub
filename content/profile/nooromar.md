@@ -5,7 +5,7 @@ aliases: ["/team/nooromar"]
 layout: profile
 
 name: نور الهدى أنور
-image: ../images/noor-omar.png
+image: ../../team/images/noor-omar.png
 teams: [
 "فريق الأنشطة والعلاقات العامة"
 ]

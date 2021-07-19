@@ -5,7 +5,7 @@ aliases: ["/team/rahmehalnajjar"]
 layout: profile
 
 name: رحمة النّجّار
-image: ../images/rahmeh.png
+image: ../../team/images/rahmeh.png
 teams: [
 "فريق التّواصل الاجتماعي",
 "فريق الأنشطة والعلاقات العامة"

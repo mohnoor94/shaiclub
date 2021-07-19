@@ -5,7 +5,7 @@ aliases: ["/team/ranaabueisheh"]
 layout: profile
 
 name: رنا أبو عيشة
-image: ../images/shai-placeholder.jpg
+image: ../../team/images/shai-placeholder.jpg
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

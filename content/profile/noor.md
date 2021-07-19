@@ -5,7 +5,7 @@ aliases: ["/team/noor"]
 layout: profile
 
 name: "\"محمد نور\" أبو خليف "
-image: ../images/noor.png
+image: ../../team/images/noor.png
 position: إداري، ومدرّب، ومطوّر الموقع الإلكتروني
 teams: [
 "فريق الإدارة",

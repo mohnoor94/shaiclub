@@ -5,7 +5,7 @@ aliases: ["/team/anasnofal"]
 layout: profile
 
 name: أنس نوفل
-image: ../images/anas-nofal.png
+image: ../../team/images/anas-nofal.png
 teams: [
 "فريق التّواصل الاجتماعي",
 ]

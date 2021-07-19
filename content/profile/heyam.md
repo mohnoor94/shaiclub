@@ -5,7 +5,7 @@ aliases: ["/team/heyamalmahmoud"]
 layout: profile
 
 name: هيام المحمود
-image: ../images/heyam-almahmoud.png
+image: ../../team/images/heyam-almahmoud.png
 teams: [
 "فريق الفيديو والمونتاج", 
 "فريق التدريب",
