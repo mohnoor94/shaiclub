@@ -64,7 +64,7 @@ layout: shai-team
 {{< team-member
     name="فارس الحمصي"
     img="images/faris.png"
-    title="مدرّب"
+    stitle="مسؤول العلاقات العامة والأنشطة"
     profile="farishomsi"
 
 >}}
@@ -99,7 +99,7 @@ layout: shai-team
 {{< team-member
     name="صالح أبو علي"
     img="images/saleh-abuali.jpg"
-    title="مدرّب"
+    title="متطوع"
     profile="salehabuali"
 >}}
 
@@ -146,14 +146,14 @@ layout: shai-team
 {{< team-member
     name="آية عريضة"
     img="images/aya-areeda.jpg"
-    title="محرّر فيديو"
+    title="متطوّع"
     profile="ayaaridah"
 >}}
 
 {{< team-member
     name="محمد مسعود"
     img="images/mohammad-masoud.png"
-    title="مرشد"
+    title="متطوّع"
     profile="mohammadmasoud"
 >}}
 
@@ -180,12 +180,12 @@ layout: shai-team
 {{< team-member
     name="نور حراحشة"
     img="images/nour-alharahsheh.png"
-    title="مرشد"
+    title="متطوّع"
     profile="nouralharahsheh"
 >}}
 
 {{< team-member
-    name="نور حراحشة"
+    name="نور الهدى أنور"
     img="images/noor-omar.png"
     title="متطوّع"
     profile="nooromar"
@@ -199,7 +199,7 @@ layout: shai-team
 >}}
 
 {{< team-member
-    name="زينة أبو رقية "
+    name="زينة أبو رقية"
     img="images/zeina-abu-ruqaia.png"
     title="كاتب محتوى"
     profile="zeinaaburuqaia"
@@ -227,7 +227,7 @@ layout: shai-team
 
 {{< team-member
     name="سامي البدري"
-    img="images/shai-placeholder.jpg"
+    img="images/sami-albadri.png"
     title="كاتب محتوى"
 >}}
 
