@@ -14,13 +14,6 @@ layout: shai-team
 >}}
 
 {{< team-member
-    name="د. محمد عبد المجيد"
-    img="images/mabdulmajeed.jpg"
-    title="استشاري"
-    profile="mabdulmajeed"
->}}
-
-{{< team-member
     name="أسامة الفتياني"
     img="images/osama.png"
     title="إداري، مدرّب"
@@ -32,6 +25,13 @@ layout: shai-team
     img="images/noor.png"
     title="استشاري، مدرّب، مطوّر"
     profile="noor"
+>}}
+
+{{< team-member
+    name="د. محمد عبد المجيد"
+    img="images/mabdulmajeed.jpg"
+    title="استشاري"
+    profile="mabdulmajeed"
 >}}
 
 {{</ team-container >}}
