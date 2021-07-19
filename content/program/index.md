@@ -4,9 +4,13 @@ slug: programs
 layout: programs
 ---
 
+{{< div class="program-group-header" >}}
+# برامج الإشراف الفردي 
+{{< /div >}}
+
 {{< program
     active= true
-    title= "برنامج تنفيذ المشاريع - إشراف فردي"
+    title= "برنامج تنفيذ المشاريع"
     link= "https://docs.google.com/forms/d/e/1FAIpQLSd2hfVnho_xVrUwqIt3wyM8gh9vfASH6Al1FvwU-QEYvhfDPQ/viewform"
     action_message= "تسجيل"
 >}}
@@ -18,7 +22,7 @@ layout: programs
 
 {{< program
     active= true
-    title= "برنامج التجهيز لسوق العمل - إشراف فردي"
+    title= "برنامج التجهيز لسوق العمل"
     link= "https://docs.google.com/forms/d/e/1FAIpQLSeX-2bUKGe8vcZwLM29n-_1NpavssbIxmp06_r8_pafTDiM3Q/viewform"
     action_message= "تسجيل"
 >}}
@@ -33,3 +37,6 @@ layout: programs
 {{< /program >}}
 
 
+{{< div class="programs-more" >}}
+# المزيد قريبًا...
+{{< /div >}}

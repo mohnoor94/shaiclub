@@ -279,3 +279,19 @@ body {
 .program-description > ul {
     padding: 10px 40px;
 }
+
+.program-group-header, .programs-more {
+    font-size: 28px;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .program {
+        font-size: 20px;
+    }
+
+    .program-group-header, .programs-more {
+        font-size: 22px;
+        text-align: center;
+    }
+}
