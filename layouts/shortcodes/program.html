@@ -22,7 +22,7 @@
 
     {{- if $active }}
     {{- $class = "button program-active" }}
-    <a class="{{ $class }}" href="{{ $link }}" rel="noopener" title="{{ $action_message | humanize }}">
+    <a class="{{ $class }}" href="{{ $link }}" rel="noopener" title="{{ $action_message | humanize }}" target="_blank">
       <span class="button-inner">{{ $action_message }}</span>
     </a>
     {{- else }}
