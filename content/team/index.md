@@ -110,21 +110,31 @@ layout: shai-team
 {{< team-container >}}
 
 {{< team-member
-name="سوار يوسف"
-img="images/sewar-youser.jpg"
-title="Social Media Leader"
+    name="هيام المحمود"
+    img="images/heyam-almahmoud.png"
+    title="منسّق تدريبي"
+    profile="heyamalmahmoud"
 >}}
 
 {{< team-member
-    name="أماني معايعة"
+    name="أماني المعايعة"
     img="images/amany-maayah.jpg"
-    title="FB Page Coordinator"
+    title="مرشد"
+    profile="amanymaayah"
 >}}
 
 {{< team-member
-    name="محمد مسعود"
-    img="images/mohammad-masoud.jpg"
-    title="Mentor"
+    name="سوار دغيم"
+    img="images/sewar-youser.png"
+    title="مسؤول الفيديو والمونتاج"
+    profile="sewaryousef"
+>}}
+
+{{< team-member
+    name="شهد ادعيس"
+    img="images/shahd-edais.png"
+    title="متطوّع"
+    profile="shahdedais"
 >}}
 
 {{</ team-container >}}
@@ -134,16 +144,15 @@ title="Social Media Leader"
 {{< team-container >}}
 
 {{< team-member
-    name="حمزة زعاترة"
-    img="images/hamza-zaatreh.jpg"
-    title="Graphic Designer"
+    name="محمد مسعود"
+    img="images/mohammad-masoud.jpg"
+    title="Mentor"
 >}}
 
 {{< team-member
-    name="هيام المحمود"
-    img="images/heyam-almahmoud.jpg"
-    title="Trainer / Mentor"
-    profile="heyamalmahmoud"
+    name="حمزة زعاترة"
+    img="images/hamza-zaatreh.jpg"
+    title="Graphic Designer"
 >}}
 
 {{< team-member
