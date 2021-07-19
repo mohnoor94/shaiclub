@@ -22,15 +22,18 @@ languages:
     weight: 1
     menu:
       main:
+        - name: برامجنا
+          url: programs
+          weight: 10
         - name: مقالات
           url: categories/مقالات/
-          weight: 1
+          weight: 20
         - name: أخبار
           url: categories/أخبار/
-          weight: 2
+          weight: 30
         - name: من نحن؟
           url: about
-          weight: 3
+          weight: 40
 
 outputs:
   home:
@@ -49,7 +52,7 @@ params:
   disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: false
-  # disableSpecial1stPost: true
+  disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
@@ -69,6 +72,9 @@ params:
     imageWidth: 500
     imageHeight: 500
     buttons:
+      - name: برامجنا
+        url: programs
+        feature: true
       - name: مقالات
         url: categories/مقالات
       - name: أخبار
