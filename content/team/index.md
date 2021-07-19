@@ -144,10 +144,38 @@ layout: shai-team
 {{< team-container >}}
 
 {{< team-member
-    name="محمد مسعود"
-    img="images/mohammad-masoud.jpg"
-    title="Mentor"
+    name="آية عريضة"
+    img="images/aya-areeda.jpg"
+    title="محرّر فيديو"
+    profile="ayaaridah"
 >}}
+
+{{< team-member
+    name="محمد مسعود"
+    img="images/mohammad-masoud.png"
+    title="مرشد"
+    profile="mohammadmasoud"
+>}}
+
+{{< team-member
+    name="زيد طارق العداربه"
+    img="images/zaid-adarbeh.jpg"
+    title="مسؤول التواصل الاجتماعي"
+    profile="zaidaladarbi"
+>}}
+
+{{< team-member
+    name="أنس نوفل"
+    img="images/anas-nofal.png"
+    title="منسق صفحة الفيسبوك"
+    profile="anasnofal"
+>}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
 
 {{< team-member
     name="حمزة زعاترة"
@@ -162,18 +190,6 @@ layout: shai-team
 >}}
 
 {{< team-member
-    name="آية عريضة"
-    img="images/aya-areeda.jpg"
-    title="Mentor"
->}}
-
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
-
-{{< team-member
     name="سامي شبانة"
     img="images/sami-shabaneh.jpg"
     title="Trainer"
@@ -185,22 +201,18 @@ layout: shai-team
     title="Content Writer"
 >}}
 
+
+
+{{</ team-container >}}
+
+
+{{< team-container >}}
+
 {{< team-member
     name="رنا أبو عيشة"
     img="images/shai-placeholder.jpg"
     title="Mentor"
 >}}
-
-{{< team-member
-    name="زيد عداربة"
-    img="images/zaid-adarbeh.jpg"
-    title="Content Writer"
->}}
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
 
 {{< team-member
     name="سامي البدري"
