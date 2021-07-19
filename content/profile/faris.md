@@ -1,7 +1,7 @@
 ---
 title: فارس الحمصي
-slug: faris
-aliases: ["/team/faris"]
+slug: farishomsi
+aliases: ["/team/farishomsi"]
 layout: profile
 
 name: فارس الحمصي

@@ -1,7 +1,7 @@
 ---
 title: هيام المحمود
-slug: heyam
-aliases: ["/team/heyam"]
+slug: heyamalmahmoud
+aliases: ["/team/heyamalmahmoud"]
 layout: profile
 
 name: هيام المحمود

@@ -1,7 +1,7 @@
 ---
 title: رحمة النّجّار
-slug: rahmeh
-aliases: ["/team/rahmeh"]
+slug: rahmehalnajjar
+aliases: ["/team/rahmehalnajjar"]
 layout: profile
 
 name: رحمة النّجّار

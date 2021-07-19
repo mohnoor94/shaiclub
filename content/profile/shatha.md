@@ -1,7 +1,7 @@
 ---
 title: شذى القريوتي
-slug: shatha
-aliases: ["/team/shatha"]
+slug: shathaalqaruti
+aliases: ["/team/shathaalqaruti"]
 layout: profile
 
 name: شذى القريوتي

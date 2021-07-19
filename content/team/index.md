@@ -44,14 +44,14 @@ layout: shai-team
     name="شذى القريوتي"
     img="images/shatha.png"
     title="مسؤول العلاقات العامة والأنشطة"
-    profile="shatha"
+    profile="shathaalqaruti"
 >}}
 
 {{< team-member
     name="رحمة النّجّار"
     img="images/rahmeh.png"
     title="مدرّب"
-    profile="rahmeh"
+    profile="rahmehalnajjar"
 >}}
 
 {{< team-member
@@ -65,7 +65,7 @@ layout: shai-team
     name="فارس الحمصي"
     img="images/faris.png"
     title="مدرّب"
-    profile="faris"
+    profile="farishomsi"
 
 >}}
 
@@ -143,7 +143,7 @@ title="Social Media Leader"
     name="هيام المحمود"
     img="images/heyam-almahmoud.jpg"
     title="Trainer / Mentor"
-    profile="heyam"
+    profile="heyamalmahmoud"
 >}}
 
 {{< team-member
