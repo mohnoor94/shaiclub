@@ -48,6 +48,13 @@ layout: shai-team
 >}}
 
 {{< team-member
+    name="فارس الحمصي"
+    img="images/faris.png"
+    title="مسؤول العلاقات العامة والأنشطة"
+    profile="farishomsi"
+>}}
+
+{{< team-member
     name="رحمة النّجّار"
     img="images/rahmeh.png"
     title="مدرّب"
@@ -59,14 +66,6 @@ layout: shai-team
     img="images/ahmad-lafi.jpg"
     title="مدرّب"
     profile="ahmadlafi"
->}}
-
-{{< team-member
-    name="فارس الحمصي"
-    img="images/faris.png"
-    stitle="مسؤول العلاقات العامة والأنشطة"
-    profile="farishomsi"
-
 >}}
 
 {{</ team-container >}}
@@ -90,24 +89,11 @@ layout: shai-team
 >}}
 
 {{< team-member
-    name="عمر مشّة"
-    img="images/omar-mesheh.jpg"
-    title="مدرّب"
-    profile="omarmesheh"
+    name="سوار دغيم"
+    img="images/sewar-youser.png"
+    title="مسؤول الفيديو والمونتاج"
+    profile="sewaryousef"
 >}}
-
-{{< team-member
-    name="صالح أبو علي"
-    img="images/saleh-abuali.jpg"
-    title="متطوع"
-    profile="salehabuali"
->}}
-
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
 
 {{< team-member
     name="هيام المحمود"
@@ -116,46 +102,11 @@ layout: shai-team
     profile="heyamalmahmoud"
 >}}
 
-{{< team-member
-    name="أماني المعايعة"
-    img="images/amany-maayah.jpg"
-    title="مرشد"
-    profile="amanymaayah"
->}}
-
-{{< team-member
-    name="سوار دغيم"
-    img="images/sewar-youser.png"
-    title="مسؤول الفيديو والمونتاج"
-    profile="sewaryousef"
->}}
-
-{{< team-member
-    name="شهد ادعيس"
-    img="images/shahd-edais.png"
-    title="متطوّع"
-    profile="shahdedais"
->}}
-
 {{</ team-container >}}
 
 
 
 {{< team-container >}}
-
-{{< team-member
-    name="آية عريضة"
-    img="images/aya-areeda.jpg"
-    title="متطوّع"
-    profile="ayaaridah"
->}}
-
-{{< team-member
-    name="محمد مسعود"
-    img="images/mohammad-masoud.png"
-    title="متطوّع"
-    profile="mohammadmasoud"
->}}
 
 {{< team-member
     name="زيد طارق العداربه"
@@ -169,6 +120,54 @@ layout: shai-team
     img="images/anas-nofal.png"
     title="منسق صفحة الفيسبوك"
     profile="anasnofal"
+>}}
+
+{{< team-member
+    name="أماني المعايعة"
+    img="images/amany-maayah.jpg"
+    title="مرشد"
+    profile="amanymaayah"
+>}}
+
+{{< team-member
+    name="عمر مشّة"
+    img="images/omar-mesheh.jpg"
+    title="مدرّب"
+    profile="omarmesheh"
+>}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
+
+{{< team-member
+    name="صالح أبو علي"
+    img="images/saleh-abuali.jpg"
+    title="متطوع"
+    profile="salehabuali"
+>}}
+
+{{< team-member
+    name="شهد ادعيس"
+    img="images/shahd-edais.png"
+    title="متطوّع"
+    profile="shahdedais"
+>}}
+
+{{< team-member
+    name="آية عريضة"
+    img="images/aya-areeda.jpg"
+    title="متطوّع"
+    profile="ayaaridah"
+>}}
+
+{{< team-member
+    name="محمد مسعود"
+    img="images/mohammad-masoud.png"
+    title="متطوّع"
+    profile="mohammadmasoud"
 >}}
 
 {{</ team-container >}}
