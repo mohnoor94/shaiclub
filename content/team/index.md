@@ -178,6 +178,40 @@ layout: shai-team
 {{< team-container >}}
 
 {{< team-member
+    name="نور حراحشة"
+    img="images/nour-alharahsheh.png"
+    title="مرشد"
+    profile="nouralharahsheh"
+>}}
+
+{{< team-member
+    name="نور حراحشة"
+    img="images/noor-omar.png"
+    title="متطوّع"
+    profile="nooromar"
+>}}
+
+{{< team-member
+    name="راما السعيد"
+    img="images/rama-alsaid.png"
+    title="كاتب محتوى"
+    profile="ramaalsaid"
+>}}
+
+{{< team-member
+    name="رنا أبو عيشة"
+    img="images/shai-placeholder.jpg"
+    title="كاتب محتوى"
+    profile="ranaabueisheh"
+>}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
+
+{{< team-member
     name="حمزة زعاترة"
     img="images/hamza-zaatreh.jpg"
     title="Graphic Designer"
@@ -201,18 +235,10 @@ layout: shai-team
     title="Content Writer"
 >}}
 
-
-
 {{</ team-container >}}
 
 
 {{< team-container >}}
-
-{{< team-member
-    name="رنا أبو عيشة"
-    img="images/shai-placeholder.jpg"
-    title="Mentor"
->}}
 
 {{< team-member
     name="سامي البدري"
