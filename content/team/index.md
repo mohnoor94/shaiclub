@@ -76,6 +76,40 @@ layout: shai-team
 {{< team-container >}}
 
 {{< team-member
+    name="يحيى الأشقر"
+    img="images/yahea.png"
+    title="مدرّب"
+    profile="yaheaalashkar"
+>}}
+
+{{< team-member
+    name="عبد الله أبو سليمة"
+    img="images/abusalemeh.png"
+    title="مدرّب"
+    profile="abdullahabusalemeh"
+>}}
+
+{{< team-member
+    name="عمر مشّة"
+    img="images/omar-mesheh.jpg"
+    title="مدرّب"
+    profile="omarmesheh"
+>}}
+
+{{< team-member
+    name="صالح أبو علي"
+    img="images/saleh-abuali.jpg"
+    title="مدرّب"
+    profile="salehabuali"
+>}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
+
+{{< team-member
 name="سوار يوسف"
 img="images/sewar-youser.jpg"
 title="Social Media Leader"
@@ -86,13 +120,6 @@ title="Social Media Leader"
     img="images/amany-maayah.jpg"
     title="FB Page Coordinator"
 >}}
-
-{{< team-member
-    name="صالح حجّاوي"
-    img="images/saleh-hijjawi.jpg"
-    title="Content Writer"
->}}
-
 
 {{< team-member
     name="محمد مسعود"
@@ -181,12 +208,6 @@ title="Social Media Leader"
 {{< team-member
     name="محمد خضر"
     img="images/mohammad-khader.jpg"
-    title="Trainer"
->}}
-
-{{< team-member
-    name="عمر مشّة"
-    img="images/omar-mesheh.jpg"
     title="Trainer"
 >}}
 
