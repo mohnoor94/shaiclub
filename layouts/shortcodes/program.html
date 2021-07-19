@@ -1,0 +1,35 @@
+{{ $class := "program"}}
+{{- $active := .Get "active"}}
+{{- if $active }}
+{{ $class = "program active-program"}}
+{{- end }}
+
+{{- $title := .Get "title"}}
+{{- $link := .Get "link"}}
+{{- $action_message := .Get "action_message"}}
+
+<div class="{{ $class }}">
+  <h2> {{ $title }} </h2>
+
+  <br>
+
+  <div class="program-description">
+    {{ .Inner  | markdownify }}
+  </div>
+
+  <div class="buttons">
+    {{- $class := "button program-non-active" }}
+
+    {{- if $active }}
+    {{- $class = "button program-active" }}
+    <a class="{{ $class }}" href="{{ $link }}" rel="noopener" title="{{ $action_message | humanize }}">
+      <span class="button-inner">{{ $action_message }}</span>
+    </a>
+    {{- else }}
+    <a class="{{ $class }}" href="#" rel="noopener" title="{{ $action_message | humanize }}">
+      <span class="button-inner">{{ $action_message }}</span>
+    </a>
+    {{- end }}
+  </div>
+</div>
+

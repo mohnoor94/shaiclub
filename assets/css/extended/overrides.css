@@ -2,8 +2,11 @@
 :root {
     --c1: #d5f3c7;
     --c2: #ffffff;
+    --c3: #166d3b;
+    --c4: #000000;
     --code-bg: linear-gradient(315deg, var(--c1) 0%, var(--c2) 74%);
     --code-bg2: linear-gradient(225deg, var(--c2) 0%, var(--c1) 74%);
+    --code-bg3: linear-gradient(147deg, var(--c3) 0%, var(--c4) 74%);
 }
 
 @font-face {
@@ -22,6 +25,12 @@ body {
     background-image: var(--code-bg);
     font-size: 24px;
     border-radius: 10px;
+}
+
+.button-feature {
+    background-color: var(--c3);
+    background-image: var(--code-bg3);
+    color: white;
 }
 
 /* home page */
@@ -240,4 +249,33 @@ body {
 .list-team-member:active {
     background: var(--code-bg2);
     transform: scale(.96)
+}
+
+/*program*/
+.program {
+    background-color: var(--c2);
+    background-image: var(--code-bg2);
+    padding: 20px;
+    margin: 50px 20px;
+    font-size: 24px;
+    border-radius: 30px;
+}
+
+.program-description {
+    margin-bottom: 40px;
+}
+
+.program-active {
+    background-color: var(--c3);
+    background-image: var(--code-bg3);
+    color: white;
+    padding: 15px;
+}
+
+.program-non-active {
+    /*nothing*/
+}
+
+.program-description > ul {
+    padding: 10px 40px;
 }
