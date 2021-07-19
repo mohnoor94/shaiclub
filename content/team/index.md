@@ -125,14 +125,14 @@ layout: shai-team
 {{< team-member
     name="أماني المعايعة"
     img="images/amany-maayah.jpg"
-    title="مرشد"
+    title="متطوّع"
     profile="amanymaayah"
 >}}
 
 {{< team-member
     name="عمر مشّة"
     img="images/omar-mesheh.jpg"
-    title="مدرّب"
+    title="متطوّع"
     profile="omarmesheh"
 >}}
 
