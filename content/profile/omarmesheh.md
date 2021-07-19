@@ -1,10 +1,10 @@
 ---
-title: أسامة الفتياني
+title: عمر مشّة
 slug: omarmesheh
 aliases: ["/team/omarmesheh"]
 layout: profile
 
-name: أسامة الفتياني
+name: عمر مشّة
 image: ../images/omar-mesheh.jpg
 teams: [
 "فريق التّواصل الاجتماعي",
