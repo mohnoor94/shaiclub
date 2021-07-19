@@ -199,63 +199,40 @@ layout: shai-team
 >}}
 
 {{< team-member
+    name="زينة أبو رقية "
+    img="images/zeina-abu-ruqaia.png"
+    title="كاتب محتوى"
+    profile="zeinaaburuqaia"
+>}}
+
+{{</ team-container >}}
+
+
+
+{{< team-container >}}
+
+{{< team-member
+    name="مالك الدبسي"
+    img="images/malek-akram.png"
+    title="كاتب محتوى"
+    profile="malekakram"
+>}}
+
+{{< team-member
     name="رنا أبو عيشة"
     img="images/shai-placeholder.jpg"
     title="كاتب محتوى"
     profile="ranaabueisheh"
 >}}
 
-{{</ team-container >}}
-
-
-
-{{< team-container >}}
-
-{{< team-member
-    name="حمزة زعاترة"
-    img="images/hamza-zaatreh.jpg"
-    title="Graphic Designer"
->}}
-
-{{< team-member
-    name="رنيم موسى"
-    img="images/raneem-mousa.jpg"
-    title="LinkedIn Page Coordinator"
->}}
-
-{{< team-member
-    name="سامي شبانة"
-    img="images/sami-shabaneh.jpg"
-    title="Trainer"
->}}
-
-{{< team-member
-    name="رمال بسّام"
-    img="images/remal-bassam.jpg"
-    title="Content Writer"
->}}
-
-{{</ team-container >}}
-
-
-{{< team-container >}}
-
 {{< team-member
     name="سامي البدري"
     img="images/shai-placeholder.jpg"
-    title="Content Writer"
+    title="كاتب محتوى"
 >}}
 
-{{< team-member
-    name="يوسف قواريق"
-    img="images/yusuf-qwareeq.jpg"
-    title="Content Writer"
->}}
-
-{{< team-member
-    name="محمد خضر"
-    img="images/mohammad-khader.jpg"
-    title="Trainer"
+{{< team-member 
+    img="images/shai-placeholder.jpg"
 >}}
 
 {{</ team-container >}}
