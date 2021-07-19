@@ -1,10 +1,10 @@
 ---
-title: أسامة الفتياني
+title: صالح أبو علي
 slug: salehabuali
 aliases: ["/team/salehabuali"]
 layout: profile
 
-name: أسامة الفتياني
+name: صالح أبو علي
 image: ../../team/images/saleh-abuali.jpg
 teams: [
 "فريق التّواصل الاجتماعي",
