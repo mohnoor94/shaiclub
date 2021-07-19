@@ -228,6 +228,7 @@ layout: shai-team
     name="سامي البدري"
     img="images/sami-albadri.png"
     title="كاتب محتوى"
+    profile="samialbadri"
 >}}
 
 {{< team-member 
