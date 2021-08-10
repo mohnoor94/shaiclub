@@ -27,13 +27,6 @@ layout: shai-team
     profile="noor"
 >}}
 
-{{< team-member
-    name="د. محمد عبد المجيد"
-    img="images/mabdulmajeed.jpg"
-    title="استشاري"
-    profile="mabdulmajeed"
->}}
-
 {{</ team-container >}}
 
 
