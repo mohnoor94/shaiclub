@@ -6,13 +6,31 @@
     <description>Recent content in Tags on شاي للذّكاء الاصطناعي</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Shai Club · Site built by [Noor](https://www.noor.guru)</copyright>
-    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.shaiclub.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithm</title>
       <link>https://www.shaiclub.com/tags/algorithm/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.shaiclub.com/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Search</title>
+      <link>https://www.shaiclub.com/tags/grid-search/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shaiclub.com/tags/grid-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Search</title>
+      <link>https://www.shaiclub.com/tags/random-search/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.shaiclub.com/tags/random-search/</guid>
       <description></description>
     </item>
     
